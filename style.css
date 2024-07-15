@@ -103,6 +103,7 @@ header {
 .btn-outer a {
   text-decoration: none;
   font-weight: 600;
+  color: var(--text-color);
 }
 
 .contact-btn {
